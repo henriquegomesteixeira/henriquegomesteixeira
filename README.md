@@ -56,6 +56,39 @@ Meu nome é Henrique Gomes e em janeiro de 2023 decidi iniciar minha carreira pa
         <td align="center">  
             <img align="center" alt="NPM" height="20" width="40" src="https://github.com/henriquegomesteixeira/henriquegomesteixeira/assets/115906489/ad51b536-9871-4d9a-bfd4-a4a0f90251be">
         </td>
+        <td align="center">  
+            <img align="center" alt="Express" height="30" width="30" src="https://github.com/henriquegomesteixeira/henriquegomesteixeira/assets/115906489/f1b86b59-8cc8-4bc6-8a92-98a69a3f3f73">
+        </td>
+        <td align="center">  
+            <img align="center" alt="Rest" height="20" width="40" src="https://github.com/henriquegomesteixeira/henriquegomesteixeira/assets/115906489/4f816a65-b65e-4dfb-9b7e-a1e745b51298">
+        </td>
+        <td align="center">  
+            <img align="center" alt="Sequelize" height="30" width="30" src="https://github.com/henriquegomesteixeira/henriquegomesteixeira/assets/115906489/575197da-a1ab-4acd-bf18-9c6382713c1e">
+        </td>
+        <td align="center">  
+            <img align="center" alt="Mocha" height="30" width="30" src="https://github.com/henriquegomesteixeira/henriquegomesteixeira/assets/115906489/2c92ab78-3e40-4e5e-8f8c-c6efcee48fd4">
+        </td>
+        <td align="center">  
+            <img align="center" alt="Chai" height="30" width="30" src="https://github.com/henriquegomesteixeira/henriquegomesteixeira/assets/115906489/0db44432-05e7-45cc-8a1d-24da4087af3b">
+        </td>
+        <td align="center">  
+            <img align="center" alt="Sinon" height="30" width="30" src="https://github.com/henriquegomesteixeira/henriquegomesteixeira/assets/115906489/b7410783-cfd0-48e7-82aa-91978f8e4007">
+        </td>
+        <td align="center">  
+            <img align="center" alt="Bootstrap" height="30" width="40" src="https://github.com/henriquegomesteixeira/henriquegomesteixeira/assets/115906489/6ff05ee2-bb73-4933-a2b4-253d8a3d0493">
+        </td>
+        <td align="center">  
+            <img align="center" alt="Redux" height="30" width="30" src="https://github.com/henriquegomesteixeira/henriquegomesteixeira/assets/115906489/5b1419f4-d618-4142-b296-854ee771bd19">
+        </td>
+        <td align="center">  
+            <img align="center" alt="Hooks" height="30" width="30" src="https://github.com/henriquegomesteixeira/henriquegomesteixeira/assets/115906489/e13148b5-e2ba-44b4-8ed0-886aa060948e">
+        </td>
+        <td align="center">  
+            <img align="center" alt="ContextApi" height="30" width="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
+        </td>
+        <td align="center">  
+            <img align="center" alt="Router" height="30" width="40" src="https://github.com/henriquegomesteixeira/henriquegomesteixeira/assets/115906489/551809d7-1454-44dd-83d3-20147a0ccab0">
+        </td>
     </tr>
     <tr>
         <td align="center"><span>Typescript</span></td>
@@ -69,6 +102,17 @@ Meu nome é Henrique Gomes e em janeiro de 2023 decidi iniciar minha carreira pa
         <td align="center"><span>Docker</span>
         <td align="center"><span>RTL</span>
         <td align="center"><span>NPM</span>
+        <td align="center"><span>Express</span>
+        <td align="center"><span>Rest API</span>
+        <td align="center"><span>Sequelize</span>
+        <td align="center"><span>Mocha</span>
+        <td align="center"><span>Chai</span>
+        <td align="center"><span>Sinon</span>
+        <td align="center"><span>Bootstrap</span>
+        <td align="center"><span>Redux</span>
+        <td align="center"><span>Hooks</span>
+        <td align="center"><span>Context API</span>
+        <td align="center"><span>React Router</span>
   </table>
 
 
