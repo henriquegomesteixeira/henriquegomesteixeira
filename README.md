@@ -3,17 +3,19 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=006AFF&size=35&center=true&vCenter=true&width=1000&lines=Me+chamo+Henrique+:%29;Seja+bem+vindo!;)](https://git.io/typing-svg)
 
 <br />
+<br />
 
-Olá, me chamo **Henrique gomes**, sou de Porto velho, RO, Brasil e sou certificado em Desenvolvimento Web, atualmente estou me formando em Engenharia de Software.
+- Olá, me chamo **Henrique gomes**, sou de Porto velho, RO, Brasil e sou certificado em Desenvolvimento Web, atualmente estou me formando em Engenharia de Software.
     
-Estou em constante busca por conhecimento para evoluir na minha carreira de desenvolvedor e progredir nas boas práticas de programação;
+- Estou em constante busca por conhecimento para evoluir na minha carreira de desenvolvedor e progredir nas boas práticas de programação;
   
-Procuro colaborar em qualquer projeto onde possa utilizar minhas habilidades e desenvolver o trabalho em equipe.
+- Procuro colaborar em qualquer projeto onde possa utilizar minhas habilidades e desenvolver o trabalho em equipe.
 
 <br />
 <br />
+<br />
 
-## Linguagens e tecnologias que já utilizo:
+## Tecnologias que já utilizo:
 
 <table>
     <tr>
@@ -27,7 +29,7 @@ Procuro colaborar em qualquer projeto onde possa utilizar minhas habilidades e d
             <img align="center" alt="React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
         </td>
         <td align="center">  
-            <img align="center" alt="Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+            <img align="center" alt="MySQL" height="30" width="30" src="https://github.com/henriquegomesteixeira/henriquegomesteixeira/assets/115906489/755b37f1-20a0-4348-9e5a-b563ff93fd8b">
         </td align="center">
         <td>  
             <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
@@ -44,19 +46,41 @@ Procuro colaborar em qualquer projeto onde possa utilizar minhas habilidades e d
         <td align="center">  
             <img align="center" alt="Docker" height="30" width="30" src="https://github.com/henriquegomesteixeira/henriquegomesteixeira/assets/115906489/59b35b54-a895-47c5-bd1d-93a9cb6d9ad9">
         </td>
+        <td align="center">  
+            <img align="center" alt="TestingLibrary" height="30" width="30" src="https://github.com/henriquegomesteixeira/henriquegomesteixeira/assets/115906489/c47eabfa-5f8c-4300-af20-2ab19d834d5b">
+        </td>
+        <td align="center">  
+            <img align="center" alt="NPM" height="20" width="40" src="https://github.com/henriquegomesteixeira/henriquegomesteixeira/assets/115906489/ad51b536-9871-4d9a-bfd4-a4a0f90251be">
+        </td>
     </tr>
     <tr>
         <td align="center"><span>Typescript</span></td>
         <td align="center"><span>Javascript</span></td>
         <td align="center"><span>React</span></td>
-        <td align="center"><span>Python</span></td>
+        <td align="center"><span>MySQL</span></td>
         <td align="center"><span>HTML</span></td>
         <td align="center"><span>CSS</span>
         <td align="center"><span>Jest</span>
         <td align="center"><span>Node</span>
         <td align="center"><span>Docker</span>
+        <td align="center"><span>Testing Library</span>
+        <td align="center"><span>NPM</span>
   </table>
 
+
+## Em aprendizado:
+
+<table>
+    <tr>
+        <td align="center">  
+            <img align="center" alt="Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+        </td align="center">
+    </tr>
+    <tr>
+        <td align="center"><span>Python</span></td>
+</table>
+
+<br />
 <br />
 <br />
 
