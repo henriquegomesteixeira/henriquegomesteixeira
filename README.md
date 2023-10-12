@@ -4,11 +4,11 @@
 
 <br />
 
-- Olá, me chamo **Henrique gomes**, sou de Porto velho, RO, Brasil e sou certificado em Desenvolvimento Web, atualmente estou me formando em Engenharia de Software.
+Olá, me chamo **Henrique gomes**, sou de Porto velho, RO, Brasil e sou certificado em Desenvolvimento Web, atualmente estou me formando em Engenharia de Software.
     
-- Estou em constante busca por conhecimento para evoluir na minha carreira de desenvolvedor e progredir nas boas práticas de programação;
+Estou em constante busca por conhecimento para evoluir na minha carreira de desenvolvedor e progredir nas boas práticas de programação;
   
-- Procuro colaborar em qualquer projeto onde possa utilizar minhas habilidades e desenvolver o trabalho em equipe.
+Procuro colaborar em qualquer projeto onde possa utilizar minhas habilidades e desenvolver o trabalho em equipe.
 
 <br />
 <br />
