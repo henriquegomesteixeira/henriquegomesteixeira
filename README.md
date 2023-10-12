@@ -5,11 +5,15 @@
 <br />
 <br />
 
-- Olá, me chamo **Henrique gomes**, sou de Porto velho, RO, Brasil e sou certificado em Desenvolvimento Web, atualmente estou me formando em Engenharia de Software.
+Meu nome é Henrique Gomes e em janeiro de 2023 decidi iniciar minha carreira para a área de desenvolvimento front-end. Desde então venho estudando e aprimorando meus conhecimentos nas tecnologias mais utilizadas neste mercado.
+
+- Início dos Estudos em Programação: julho de 2021;
+
+- Atualmente, estou cursando Engenharia de Software na Universidade Uninter, com o objetivo de aprimorar ainda mais meus conhecimentos e habilidades na área de tecnologia;
+
+- Possuo um entendimento sólido em desenvolvimento **back-end**, o que complementa minha experiência em front-end. Embora tenha esse conhecimento, meu principal foco e interesse estão na área de desenvolvimento front-end.
     
-- Estou em constante busca por conhecimento para evoluir na minha carreira de desenvolvedor e progredir nas boas práticas de programação;
-  
-- Procuro colaborar em qualquer projeto onde possa utilizar minhas habilidades e desenvolver o trabalho em equipe.
+- Estou em constante busca por conhecimento para evoluir na minha carreira de desenvolvedor e progredir nas boas práticas de programação, procuro colaborar em projetos onde possa utilizar minhas habilidades e desenvolver o trabalho em equipe.
 
 <br />
 <br />
