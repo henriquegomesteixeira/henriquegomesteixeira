@@ -63,7 +63,7 @@
         <td align="center"><span>Jest</span>
         <td align="center"><span>Node</span>
         <td align="center"><span>Docker</span>
-        <td align="center"><span>Testing Library</span>
+        <td align="center"><span>RTL</span>
         <td align="center"><span>NPM</span>
   </table>
 
