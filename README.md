@@ -9,7 +9,7 @@ Meu nome é Henrique Gomes e em janeiro de 2023 decidi iniciar minha carreira pa
 
 - Início dos Estudos em Programação: julho de 2021;
 
-- Atualmente, estou cursando Engenharia de Software na Universidade Uninter, com o objetivo de aprimorar ainda mais meus conhecimentos e habilidades na área de tecnologia;
+- Atualmente, estou cursando Engenharia de Software no Centro Universitário Descomplica, com o objetivo de aprimorar ainda mais meus conhecimentos e habilidades na área de tecnologia;
 
 - Possuo um entendimento sólido em desenvolvimento **back-end**, o que complementa minha experiência em front-end. Embora tenha esse conhecimento, meu principal foco e interesse estão na área de desenvolvimento front-end.
     
