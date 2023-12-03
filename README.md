@@ -5,7 +5,7 @@
 <br />
 <br />
 
-Meu nome é Henrique Gomes e em janeiro de 2023 decidi iniciar minha carreira para a área de desenvolvimento full-stack. Desde então venho estudando e aprimorando meus conhecimentos nas tecnologias mais utilizadas neste mercado.
+Meu nome é Henrique Gomes e em janeiro de 2023 decidi iniciar minha carreira para a área de desenvolvimento full-stack. Desde então venho estudando e aprimorando meus conhecimentos nas tecnologias mais utilizadas no mercado.
 
 - Início dos Estudos em Programação: março de 2022;
 
