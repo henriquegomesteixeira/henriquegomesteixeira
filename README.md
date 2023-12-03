@@ -5,13 +5,13 @@
 <br />
 <br />
 
-Meu nome é Henrique Gomes e em janeiro de 2023 decidi iniciar minha carreira para a área de desenvolvimento front-end. Desde então venho estudando e aprimorando meus conhecimentos nas tecnologias mais utilizadas neste mercado.
+Meu nome é Henrique Gomes e em janeiro de 2023 decidi iniciar minha carreira para a área de desenvolvimento full-stack. Desde então venho estudando e aprimorando meus conhecimentos nas tecnologias mais utilizadas neste mercado.
 
-- Início dos Estudos em Programação: julho de 2021;
+- Início dos Estudos em Programação: março de 2022;
 
 - Atualmente, estou cursando Engenharia de Software no Centro Universitário Descomplica, com o objetivo de aprimorar ainda mais meus conhecimentos e habilidades na área de tecnologia;
 
-- Possuo um entendimento sólido em desenvolvimento **back-end**, o que complementa minha experiência em front-end. Embora tenha esse conhecimento, meu principal foco e interesse estão na área de desenvolvimento front-end.
+- Tenho um amplo entendimento em desenvolvimento tanto back-end quanto front-end, o que me permite ter uma visão abrangente e integrada do desenvolvimento de aplicações. Minha experiência sólida no back-end complementa minha habilidade no front-end, proporcionando um equilíbrio valioso para contribuir em diferentes aspectos de um projeto.
     
 - Estou em constante busca por conhecimento para evoluir na minha carreira de desenvolvedor e progredir nas boas práticas de programação, procuro colaborar em projetos onde possa utilizar minhas habilidades e desenvolver o trabalho em equipe.
 
