@@ -33,7 +33,19 @@ Meu nome é Henrique Gomes e em janeiro de 2023 decidi iniciar minha carreira pa
             <img align="center" alt="React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
         </td>
         <td align="center">  
+            <img align="center" alt="Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+        </td align="center">
+        <td align="center">  
+            <img align="center" alt="SQL" height="30" width="30" src="https://github.com/henriquegomesteixeira/henriquegomesteixeira/assets/115906489/d00c79d3-2136-4e4f-bc2b-ac9ef9fde26c">
+        </td align="center">
+        <td align="center">  
+            <img align="center" alt="Express" height="30" width="30" src="https://github.com/henriquegomesteixeira/henriquegomesteixeira/assets/115906489/bf71a76d-f69b-4ef3-a0cc-64e51916b90d">
+        </td align="center">
+        <td align="center">  
             <img align="center" alt="MySQL" height="30" width="30" src="https://github.com/henriquegomesteixeira/henriquegomesteixeira/assets/115906489/755b37f1-20a0-4348-9e5a-b563ff93fd8b">
+        </td align="center">
+        <td align="center">  
+            <img align="center" alt="PostgresSQL" height="30" width="30" src="https://github.com/henriquegomesteixeira/henriquegomesteixeira/assets/115906489/c49e0b61-48d3-4e25-935c-41e0fa0eb7f2">
         </td align="center">
         <td>  
             <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
@@ -57,9 +69,6 @@ Meu nome é Henrique Gomes e em janeiro de 2023 decidi iniciar minha carreira pa
             <img align="center" alt="NPM" height="20" width="40" src="https://github.com/henriquegomesteixeira/henriquegomesteixeira/assets/115906489/ad51b536-9871-4d9a-bfd4-a4a0f90251be">
         </td>
         <td align="center">  
-            <img align="center" alt="Express" height="30" width="30" src="https://github.com/henriquegomesteixeira/henriquegomesteixeira/assets/115906489/f1b86b59-8cc8-4bc6-8a92-98a69a3f3f73">
-        </td>
-        <td align="center">  
             <img align="center" alt="Rest" height="20" width="40" src="https://github.com/henriquegomesteixeira/henriquegomesteixeira/assets/115906489/4f816a65-b65e-4dfb-9b7e-a1e745b51298">
         </td>
         <td align="center">  
@@ -67,6 +76,9 @@ Meu nome é Henrique Gomes e em janeiro de 2023 decidi iniciar minha carreira pa
         </td>
         <td align="center">  
             <img align="center" alt="Mocha" height="30" width="30" src="https://github.com/henriquegomesteixeira/henriquegomesteixeira/assets/115906489/2c92ab78-3e40-4e5e-8f8c-c6efcee48fd4">
+        </td>
+        <td align="center">  
+            <img align="center" alt="Pytest" height="30" width="30" src="https://github.com/henriquegomesteixeira/henriquegomesteixeira/assets/115906489/0ecc5c39-67ad-403c-8a7c-232a8b9dc431">
         </td>
         <td align="center">  
             <img align="center" alt="Chai" height="30" width="30" src="https://github.com/henriquegomesteixeira/henriquegomesteixeira/assets/115906489/0db44432-05e7-45cc-8a1d-24da4087af3b">
@@ -87,14 +99,24 @@ Meu nome é Henrique Gomes e em janeiro de 2023 decidi iniciar minha carreira pa
             <img align="center" alt="ContextApi" height="30" width="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
         </td>
         <td align="center">  
+            <img align="center" alt="Vite" height="30" width="30" src="https://github.com/henriquegomesteixeira/henriquegomesteixeira/assets/115906489/120db8aa-c9be-4a87-ab2f-f6fc89484052">
+        </td>
+        <td align="center">  
             <img align="center" alt="Router" height="30" width="40" src="https://github.com/henriquegomesteixeira/henriquegomesteixeira/assets/115906489/551809d7-1454-44dd-83d3-20147a0ccab0">
+        </td>
+        <td align="center">  
+            <img align="center" alt="JWT" height="30" width="40" src="https://github.com/henriquegomesteixeira/henriquegomesteixeira/assets/115906489/0cf97a69-356a-4fdf-8824-c7a6f0b09f75">
         </td>
     </tr>
     <tr>
         <td align="center"><span>Typescript</span></td>
         <td align="center"><span>Javascript</span></td>
         <td align="center"><span>React</span></td>
+        <td align="center"><span>Python</span></td>
+        <td align="center"><span>SQL</span></td>
+        <td align="center"><span>Express</span></td>
         <td align="center"><span>MySQL</span></td>
+        <td align="center"><span>PostgresSQL</span></td>
         <td align="center"><span>HTML</span></td>
         <td align="center"><span>CSS</span>
         <td align="center"><span>Jest</span>
@@ -102,31 +124,20 @@ Meu nome é Henrique Gomes e em janeiro de 2023 decidi iniciar minha carreira pa
         <td align="center"><span>Docker</span>
         <td align="center"><span>RTL</span>
         <td align="center"><span>NPM</span>
-        <td align="center"><span>Express</span>
         <td align="center"><span>Rest API</span>
         <td align="center"><span>Sequelize</span>
         <td align="center"><span>Mocha</span>
+        <td align="center"><span>Pytest</span>
         <td align="center"><span>Chai</span>
         <td align="center"><span>Sinon</span>
         <td align="center"><span>Bootstrap</span>
         <td align="center"><span>Redux</span>
         <td align="center"><span>Hooks</span>
         <td align="center"><span>Context API</span>
+        <td align="center"><span>Vite</span>
         <td align="center"><span>React Router</span>
+        <td align="center"><span>JWT</span>
   </table>
-
-
-## Em aprendizado:
-
-<table>
-    <tr>
-        <td align="center">  
-            <img align="center" alt="Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-        </td align="center">
-    </tr>
-    <tr>
-        <td align="center"><span>Python</span></td>
-</table>
 
 <br />
 <br />
