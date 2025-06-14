@@ -11,8 +11,6 @@ Também desenvolvo soluções sob demanda para profissionais autônomos, utiliza
 
 Sou estudante de **Engenharia de Software** e estou em constante evolução, buscando fortalecer tanto minha base teórica quanto minha prática no desenvolvimento de sistemas. Acredito na importância de escrever código que resolve o problema certo, da forma mais simples, legível e eficiente possível.
 
-Aberto a colaborações, aprendizados e desafios que agreguem valor de verdade ao código e às pessoas.
-
 <br />
 
 ## Tecnologias que já utilizo:
