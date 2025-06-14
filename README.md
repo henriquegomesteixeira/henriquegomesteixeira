@@ -5,24 +5,23 @@
 <br />
 <br />
 
-Meu nome é Henrique Gomes e em janeiro de 2023 decidi iniciar minha carreira para a área de desenvolvimento full-stack. Desde então venho estudando e aprimorando meus conhecimentos nas tecnologias mais utilizadas no mercado.
+Meu nome é Henrique Gomes e sou desenvolvedor Full Stack com foco em aplicações web modernas. Atualmente, contribuo no desenvolvimento de sistemas internos utilizados pelo Governo do Estado de Rondônia, na **SETIC-RO**, atuando com **ASP.NET MVC, C#, SQL Server**, versionamento com Git e boas práticas como Clean Code, SOLID e testes automatizados.
 
-- Início dos Estudos em Programação: março de 2022;
+Também desenvolvo soluções sob demanda para profissionais autônomos, utilizando stacks modernas como **Next.js, React, TypeScript, Node.js, Prisma** e **PostgreSQL**, criando interfaces responsivas, APIs personalizadas e integrações completas — sempre com atenção à experiência do usuário, organização e clareza do código.
 
-- Atualmente, estou cursando Engenharia de Software no Centro Universitário Descomplica, com o objetivo de aprimorar ainda mais meus conhecimentos e habilidades na área de tecnologia;
+Sou estudante de **Engenharia de Software** e estou em constante evolução, buscando fortalecer tanto minha base teórica quanto minha prática no desenvolvimento de sistemas. Acredito na importância de escrever código que resolve o problema certo, da forma mais simples, legível e eficiente possível.
 
-- Tenho um amplo entendimento em desenvolvimento tanto back-end quanto front-end, o que me permite ter uma visão abrangente e integrada do desenvolvimento de aplicações. Minha experiência sólida no back-end complementa minha habilidade no front-end, proporcionando um equilíbrio valioso para contribuir em diferentes aspectos de um projeto.
-    
-- Estou em constante busca por conhecimento para evoluir na minha carreira de desenvolvedor e progredir nas boas práticas de programação, procuro colaborar em projetos onde possa utilizar minhas habilidades e desenvolver o trabalho em equipe.
+Aberto a colaborações, aprendizados e desafios que agreguem valor de verdade ao código e às pessoas.
 
-<br />
-<br />
 <br />
 
 ## Tecnologias que já utilizo:
 
 <table>
     <tr>
+        <td align="center">  
+            <img align="center" alt="C#" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
+        </td>
         <td align="center">  
             <img align="center" alt="TypeScript" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg">
         </td>
@@ -31,6 +30,9 @@ Meu nome é Henrique Gomes e em janeiro de 2023 decidi iniciar minha carreira pa
         </td>
         <td align="center">  
             <img align="center" alt="React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
+        </td>
+        <td align="center">  
+            <img align="center" alt="Next.js" height="40" width="40" src="https://github.com/user-attachments/assets/400810dc-398e-4e48-a330-52c3d5fce13f">
         </td>
         <td align="center">  
             <img align="center" alt="Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
@@ -42,6 +44,9 @@ Meu nome é Henrique Gomes e em janeiro de 2023 decidi iniciar minha carreira pa
             <img align="center" alt="Express" height="30" width="30" src="https://github.com/henriquegomesteixeira/henriquegomesteixeira/assets/115906489/bf71a76d-f69b-4ef3-a0cc-64e51916b90d">
         </td align="center">
         <td align="center">  
+            <img align="center" alt="SqLite" height="30" width="30" src="https://github.com/user-attachments/assets/2f84d06a-11ba-48c7-a002-90b5a3aa6931">
+        </td align="center">
+        <td align="center">  
             <img align="center" alt="MySQL" height="30" width="30" src="https://github.com/henriquegomesteixeira/henriquegomesteixeira/assets/115906489/755b37f1-20a0-4348-9e5a-b563ff93fd8b">
         </td align="center">
         <td align="center">  
@@ -51,7 +56,10 @@ Meu nome é Henrique Gomes e em janeiro de 2023 decidi iniciar minha carreira pa
             <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
         </td>
         <td align="center">  
-            <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+            <img align="center" alt="CSS" height="25" width="35" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+        </td>
+        <td align="center">
+          <img align="center" alt="Tailwind CSS" height="30" width="50" src="https://github.com/user-attachments/assets/637a8050-e527-43a1-8d66-d348d6400a78">
         </td>
         <td align="center">  
             <img align="center" alt="Jest" height="30" width="30" src="https://github.com/henriquegomesteixeira/henriquegomesteixeira/assets/115906489/cc91f6d0-efb4-4c95-9b37-107f9aa72932">
@@ -64,12 +72,6 @@ Meu nome é Henrique Gomes e em janeiro de 2023 decidi iniciar minha carreira pa
         </td>
         <td align="center">  
             <img align="center" alt="TestingLibrary" height="30" width="30" src="https://github.com/henriquegomesteixeira/henriquegomesteixeira/assets/115906489/c47eabfa-5f8c-4300-af20-2ab19d834d5b">
-        </td>
-        <td align="center">  
-            <img align="center" alt="NPM" height="20" width="40" src="https://github.com/henriquegomesteixeira/henriquegomesteixeira/assets/115906489/ad51b536-9871-4d9a-bfd4-a4a0f90251be">
-        </td>
-        <td align="center">  
-            <img align="center" alt="Rest" height="20" width="40" src="https://github.com/henriquegomesteixeira/henriquegomesteixeira/assets/115906489/4f816a65-b65e-4dfb-9b7e-a1e745b51298">
         </td>
         <td align="center">  
             <img align="center" alt="Sequelize" height="30" width="30" src="https://github.com/henriquegomesteixeira/henriquegomesteixeira/assets/115906489/575197da-a1ab-4acd-bf18-9c6382713c1e">
@@ -90,57 +92,41 @@ Meu nome é Henrique Gomes e em janeiro de 2023 decidi iniciar minha carreira pa
             <img align="center" alt="Bootstrap" height="30" width="40" src="https://github.com/henriquegomesteixeira/henriquegomesteixeira/assets/115906489/6ff05ee2-bb73-4933-a2b4-253d8a3d0493">
         </td>
         <td align="center">  
-            <img align="center" alt="Redux" height="30" width="30" src="https://github.com/henriquegomesteixeira/henriquegomesteixeira/assets/115906489/5b1419f4-d618-4142-b296-854ee771bd19">
-        </td>
-        <td align="center">  
-            <img align="center" alt="Hooks" height="30" width="30" src="https://github.com/henriquegomesteixeira/henriquegomesteixeira/assets/115906489/e13148b5-e2ba-44b4-8ed0-886aa060948e">
-        </td>
-        <td align="center">  
-            <img align="center" alt="ContextApi" height="30" width="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
-        </td>
-        <td align="center">  
             <img align="center" alt="Vite" height="30" width="30" src="https://github.com/henriquegomesteixeira/henriquegomesteixeira/assets/115906489/120db8aa-c9be-4a87-ab2f-f6fc89484052">
         </td>
-        <td align="center">  
-            <img align="center" alt="Router" height="30" width="40" src="https://github.com/henriquegomesteixeira/henriquegomesteixeira/assets/115906489/551809d7-1454-44dd-83d3-20147a0ccab0">
-        </td>
-        <td align="center">  
-            <img align="center" alt="JWT" height="30" width="40" src="https://github.com/henriquegomesteixeira/henriquegomesteixeira/assets/115906489/0cf97a69-356a-4fdf-8824-c7a6f0b09f75">
+        <td align="center">
+          <img align="center" alt="Prisma" height="30" width="30" src="https://github.com/user-attachments/assets/861e12e5-9e85-4fcc-8bd3-4515a0f6d7dd">
         </td>
     </tr>
     <tr>
+        <td align="center"><span>C# (CSharp)</span></td>
         <td align="center"><span>Typescript</span></td>
         <td align="center"><span>Javascript</span></td>
         <td align="center"><span>React</span></td>
+        <td align="center"><span>Next.js</span></td>
         <td align="center"><span>Python</span></td>
         <td align="center"><span>SQL</span></td>
         <td align="center"><span>Express</span></td>
+        <td align="center"><span>SqLite</span></td>
         <td align="center"><span>MySQL</span></td>
         <td align="center"><span>PostgresSQL</span></td>
         <td align="center"><span>HTML</span></td>
         <td align="center"><span>CSS</span>
+        <td align="center"><span>Tailwind CSS</span>
         <td align="center"><span>Jest</span>
         <td align="center"><span>Node</span>
         <td align="center"><span>Docker</span>
         <td align="center"><span>RTL</span>
-        <td align="center"><span>NPM</span>
-        <td align="center"><span>Rest API</span>
         <td align="center"><span>Sequelize</span>
         <td align="center"><span>Mocha</span>
         <td align="center"><span>Pytest</span>
         <td align="center"><span>Chai</span>
         <td align="center"><span>Sinon</span>
         <td align="center"><span>Bootstrap</span>
-        <td align="center"><span>Redux</span>
-        <td align="center"><span>Hooks</span>
-        <td align="center"><span>Context API</span>
         <td align="center"><span>Vite</span>
-        <td align="center"><span>React Router</span>
-        <td align="center"><span>JWT</span>
+        <td align="center"><span>Prisma</span>
   </table>
 
-<br />
-<br />
 <br />
 
 ## Minhas estatisticas
