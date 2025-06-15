@@ -21,10 +21,7 @@ Sou estudante de **Engenharia de Software** e estou em constante evolução, bus
             <img align="center" alt="C#" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
         </td>
         <td align="center">  
-            <img align="center" alt=".NET 6+" height="40" width="60" src="https://github.com/user-attachments/assets/9cde2658-c444-45de-9ce7-472f604e7041">
-        </td>
-        <td align="center">  
-            <img align="center" alt=".NET Core" height="40" width="60" src="https://github.com/user-attachments/assets/b37bde05-0645-4fdd-93f3-fcf1d76503f1">
+            <img align="center" alt=".NET 6+" height="30" width="50" src="https://github.com/user-attachments/assets/9cde2658-c444-45de-9ce7-472f604e7041">
         </td>
         <td align="center">  
             <img align="center" alt="TypeScript" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg">
@@ -42,7 +39,7 @@ Sou estudante de **Engenharia de Software** e estou em constante evolução, bus
             <img align="center" alt="Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
         </td align="center">
         <td align="center">  
-            <img align="center" alt="SQL" height="30" width="30" src="https://github.com/henriquegomesteixeira/henriquegomesteixeira/assets/115906489/d00c79d3-2136-4e4f-bc2b-ac9ef9fde26c">
+            <img align="center" alt="SQL Server" height="30" width="30" src="https://github.com/user-attachments/assets/a043734d-c926-432a-a708-3c279a140c55">
         </td align="center">
         <td align="center">  
             <img align="center" alt="Express" height="30" width="30" src="https://github.com/henriquegomesteixeira/henriquegomesteixeira/assets/115906489/bf71a76d-f69b-4ef3-a0cc-64e51916b90d">
@@ -104,14 +101,13 @@ Sou estudante de **Engenharia de Software** e estou em constante evolução, bus
     </tr>
     <tr>
         <td align="center"><span>C# (CSharp)</span></td>
-        <td align="center"><span>.NET-6+</span></td>
-        <td align="center"><span>.NET-Core</span></td>
+        <td align="center"><span>.NET</span></td>
         <td align="center"><span>Typescript</span></td>
         <td align="center"><span>Javascript</span></td>
         <td align="center"><span>React</span></td>
         <td align="center"><span>Next.js</span></td>
         <td align="center"><span>Python</span></td>
-        <td align="center"><span>SQL</span></td>
+        <td align="center"><span>SQL Server</span></td>
         <td align="center"><span>Express</span></td>
         <td align="center"><span>SqLite</span></td>
         <td align="center"><span>MySQL</span></td>
