@@ -21,6 +21,12 @@ Sou estudante de **Engenharia de Software** e estou em constante evolução, bus
             <img align="center" alt="C#" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
         </td>
         <td align="center">  
+            <img align="center" alt=".NET 6+" height="40" width="40" src="https://github.com/user-attachments/assets/9cde2658-c444-45de-9ce7-472f604e7041">
+        </td>
+        <td align="center">  
+            <img align="center" alt=".NET Core" height="40" width="50" src="https://github.com/user-attachments/assets/b37bde05-0645-4fdd-93f3-fcf1d76503f1">
+        </td>
+        <td align="center">  
             <img align="center" alt="TypeScript" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg">
         </td>
         <td align="center">  
@@ -98,6 +104,8 @@ Sou estudante de **Engenharia de Software** e estou em constante evolução, bus
     </tr>
     <tr>
         <td align="center"><span>C# (CSharp)</span></td>
+        <td align="center"><span>.NET-6+</span></td>
+        <td align="center"><span>.NET-Core</span></td>
         <td align="center"><span>Typescript</span></td>
         <td align="center"><span>Javascript</span></td>
         <td align="center"><span>React</span></td>
